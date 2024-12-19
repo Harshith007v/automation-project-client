@@ -25,4 +25,4 @@ Feature: Login
 
     Examples: 
       | URL                                                     | username | password | err                       |
-      | https://practicetestautomation.com/practice-test-login/ | student  | abc      | Your username is invalid! |
+      | https://practicetestautomation.com/practice-test-login/ | student  | abc      | Your password is invalid! |
